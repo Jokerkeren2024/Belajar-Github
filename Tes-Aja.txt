@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ini file temen ya
+=======
+Ini file kita
+>>>>>>> 8fc38c1 (Tambah file aja)
